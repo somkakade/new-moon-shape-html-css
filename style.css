@@ -1,0 +1,14 @@
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: azure;
+}
+.moon {
+  width: 100px;
+  height: 100px;
+  box-shadow: 25px 25px 0 0 red;
+  border-radius: 50%;
+  position: relative;
+}
